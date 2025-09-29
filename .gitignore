@@ -1,0 +1,5 @@
+Untracked/*
+output/*
+*.blend1
+HealPixSphere/healpix_sphere_nside256.obj
+HealPixSphere/healpix_sphere_nside128.obj
